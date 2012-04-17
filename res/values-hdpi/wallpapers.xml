@@ -17,16 +17,16 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
-	<item>wallpaper_CNDots</item>
-	<item>wallpaper_FractalRoom</item>
+	<item>wallpaper_cndots</item>
+	<item>wallpaper_fractalroom</item>
 	<item>wallpaper_droid_dna</item>
 	<item>wallpaper_droid_dna2</item>
 	<item>wallpaper_empowered</item>
 	<item>wallpaper_htc_stock</item>
 	<item>wallpaper_htc_stock2</item>
 	<item>wallpaper_nerd_power</item>
-	<item>wallpaper_PortalLash</item>
-	<item>wallpaper_Typo</item>
+	<item>wallpaper_portallash</item>
+	<item>wallpaper_typo</item>
 	<item>wallpaper_urban</item>
     </string-array>
 </resources>
